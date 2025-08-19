@@ -1,0 +1,5 @@
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "PASSWORD"
+#define MQTT_SERVER "mqtt.example.com"
+#define MQTT_USER ""
+#define MQTT_PASS ""
